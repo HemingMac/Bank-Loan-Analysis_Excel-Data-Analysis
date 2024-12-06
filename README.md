@@ -1,2 +1,30 @@
 # Bank-Loan-Analysis_Excel-Data-Analysis
- Assessment of bank's lending activities and performance, a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
+Assessment of bank's lending activities and performance, a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
+
+# **Project Overview**
+
+   This project focuses on leveraging Excel for:
+   Cleaning and preprocessing raw data.
+   Performing exploratory data analysis (EDA).
+   Creating interactive dashboards and reports.
+   Applying basic statistical methods and functions.
+   Visualizing data with charts and pivot tables.
+   The project uses a sample dataset to walk through each step of the analysis process.
+
+**Features**
+
+   **Data Cleaning**: Removing duplicates, handling missing values, and standardizing formats.
+  
+   **Statistical Analysis**: Using formulas and tools like mean, median, standard deviation, and correlation.
+  
+   **Data Visualization:**
+   Pivot Tables and Pivot Charts.
+   Line, Bar, Donut, Map and Tree Map Charts.
+   Conditional Formatting for highlighting trends.
+  
+   **Interactive Dashboards:**
+   Slicers for dynamic filtering.
+   Charts linked to live data updates.
+
+
+   
