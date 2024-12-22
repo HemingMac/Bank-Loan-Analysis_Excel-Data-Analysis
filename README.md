@@ -26,6 +26,11 @@ Assessment of bank's lending activities and performance, a comprehensive Bank Lo
    Slicers for dynamic filtering.
    Charts linked to live data updates.
 
+![Loan Overview_Dashboard 01](https://github.com/user-attachments/assets/ca60c807-318d-402d-b0e4-4f2dc02db2f2)
+
+![Loan Summary_Dashboard 02](https://github.com/user-attachments/assets/6b09a47d-7ef0-4a73-93f2-35b497edb7be)
+
+
 **Repository Contents**
    Problem Statment File
    [Problem Statement_Loan Analysis.docx](https://github.com/user-attachments/files/18039091/Problem.Statement_Loan.Analysis.docx)
