@@ -1,4 +1,4 @@
-[Loan Analysis_Final Report.xlsx](https://github.com/user-attachments/files/18039100/Loan.Analysis_Final.Report.xlsx)# Bank-Loan-Analysis_Excel-Data-Analysis
+# Bank-Loan-Analysis_Excel-Data-Analysis
 Assessment of bank's lending activities and performance, a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
 
 # **Project Overview**
